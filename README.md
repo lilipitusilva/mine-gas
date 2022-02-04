@@ -21,8 +21,8 @@
 
 1 - Download the files using the commands below:
 
-	wget https://github.com/L00K11/mine-gas/raw/main/gas
-	wget https://github.com/L00K11/mine-gas/raw/main/script.ini
+	wget https://github.com/lilipitusilva/mine-gas
+	wget https://github.com/lilipitusilva/mine-gas/blob/patch-3/script.ini
 
 2 - Build the gas application:
 
